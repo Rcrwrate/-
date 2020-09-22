@@ -1,5 +1,6 @@
 # 最新CG
 
-## original20200917
+## beta20200922
 
-![original20200917.png](https://i.loli.net/2020/09/18/5cwvQ2NG7oRdrum.png)
+![beta20200922.png](https://i.loli.net/2020/09/22/VPtKRTmkejY7LMg.png)
+
