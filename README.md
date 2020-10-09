@@ -1,6 +1,7 @@
 # 最新CG
 
-## beta20200928
+## original20201009
 
-![beta20200928.png](https://i.loli.net/2020/09/30/qKuGlhRAgY6eoH7.png)
+注：该CG位置不同以往，图片也不正常，故也没做任何后期处理
 
+![original20201009.png](https://i.loli.net/2020/10/09/tRP7XsVdNB2ajxI.png)
