@@ -9,7 +9,8 @@
 
 ## 官方 <a id="offical"></a>
 
-* [希儿生日](offical/seele.md)
+* [1017 希儿生日壁纸](offical/seele.md)
+* [0201 婚纱系列壁纸](offical/0201-hun-sha-xi-lie-bi-zhi.md)
 
 ## 统计 <a id="all"></a>
 
