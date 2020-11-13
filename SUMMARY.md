@@ -16,7 +16,8 @@
 
 ## 西城大佬
 
-* [目录](xi-cheng-da-lao/index.md)
+* [目录](xi-cheng-da-lao/index/README.md)
+  * [版本CG](xi-cheng-da-lao/index/ban-ben-cg.md)
 
 ## 统计 <a id="all"></a>
 
