@@ -1,8 +1,6 @@
 # 最新CG
 
-## original20201112
+## 20201022
 
-![original20201112](.gitbook/assets/original20201112.png)
-
-
+![20201022](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/20201022.png)
 
