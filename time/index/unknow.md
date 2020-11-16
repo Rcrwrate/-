@@ -1,6 +1,6 @@
 # 未知时间
 
-![](../../.gitbook/assets/cg01_iphone5.png)
+![](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/cg01_iphone5.png)
 
-![](../../.gitbook/assets/maintain.png)
+![](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/maintain.png)
 
