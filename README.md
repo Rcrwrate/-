@@ -1,8 +1,10 @@
 # 最新CG
 
-## original20201112
+## original20201126
 
-![original20201112](.gitbook/assets/original20201112.png)
+![original20201126](.gitbook/assets/original20201126.png)
+
+![](.gitbook/assets/original20201126.png)
 
 
 
