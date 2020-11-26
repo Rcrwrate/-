@@ -7,8 +7,6 @@
 * [目录](time/index/README.md)
   * [2020](time/index/2020.md)
 
-## 官方 <a id="offical"></a>
-
 ## 统计 <a id="all"></a>
 
 * [统计](all/all.md)
