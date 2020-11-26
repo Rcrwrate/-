@@ -4,7 +4,5 @@
 
 ![original20201126](.gitbook/assets/original20201126.png)
 
-![](.gitbook/assets/original20201126.png)
-
 
 
