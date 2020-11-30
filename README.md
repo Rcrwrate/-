@@ -4,6 +4,8 @@
 
 ~~（秃不动了只能来看看CG了）~~
 
+~~（20201130：这该死的秘境真是让人无比头秃）~~
+
 ## original20201126
 
 ![original20201126](.gitbook/assets/original20201126.png)
