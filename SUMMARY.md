@@ -1,6 +1,6 @@
 # Table of contents
 
-* [最新CG](README.md)
+* [崩崩CG？](README.md)
 
 ## 时间线 <a id="time"></a>
 
