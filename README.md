@@ -2,5 +2,4 @@
 
 ## original20210203
 
-![](.gitbook/assets/original20210203.png)
-
+![original20210203](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/original20210203.png)
