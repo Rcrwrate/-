@@ -1,6 +1,8 @@
-# 最新CG
+# 崩崩CG？
 
-## original20210506
+## bete20210603
 
-![original20210506](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/oringinal20210506.png)
+![bete20210603](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/bete20210603.png)
+
+
 
