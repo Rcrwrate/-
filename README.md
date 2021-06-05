@@ -1,8 +1,8 @@
 # 崩崩CG？
 
-## **original20210506**
+## bete20210603
 
-![original20210506](.gitbook/assets/oringinal20210506.png)
+![bete20210603](.gitbook/assets/bete20210603.png)
 
 
 
