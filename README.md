@@ -1,8 +1,8 @@
 # 崩崩CG？
 
-## bete20210603
+## original20210616
 
-![bete20210603](.gitbook/assets/bete20210603.png)
+![](.gitbook/assets/original20210616.png)
 
 
 
