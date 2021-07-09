@@ -1,6 +1,6 @@
 # 最新CG
 
-## original20210616
+## original20210702
 
-![bete20210603](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/original20210616.png)
+![](https://cdn.jsdelivr.net/gh/Rcrwrate/benghuai/.gitbook/assets/original20210702.png)
 
