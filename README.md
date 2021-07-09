@@ -1,8 +1,8 @@
 # 崩崩CG？
 
-## original20210616
+## original20210702
 
-![](.gitbook/assets/original20210616.png)
+![](.gitbook/assets/original20210702.png)
 
 
 
