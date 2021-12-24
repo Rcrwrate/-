@@ -1,8 +1,8 @@
 # 崩崩CG？
 
-## original20211112
+## original20211224
 
-![](https://upload-bbs.mihoyo.com/upload/2021/11/12/5875627/5bb71f37baac18dd2ab917d434fd6b2f\_6960502472726747412.png)
+![](https://upload-bbs.mihoyo.com/upload/2021/12/24/5875627/42093553a0ebd97323900ee035deba05_369904672226225849.png)
 
 ## **如果出现问题请前往以下备用站点访问**
 
