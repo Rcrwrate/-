@@ -5,6 +5,7 @@
 ## 时间线 <a id="time"></a>
 
 * [目录](time/index/README.md)
+  * [2022](time/index/2022.md)
   * [2021](time/index/2021.md)
   * [2020](time/index/2020.md)
   * [未知时间](time/index/unknow.md)
